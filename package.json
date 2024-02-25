@@ -1,5 +1,22 @@
 {
   "dependencies": {
     "mqtt": "^5.3.5"
-  }
+  },
+  "name": "mqqt-server",
+  "version": "1.0.0",
+  "description": "lightweight monitor real-time",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mqqt",
+    "node.js",
+    "c++",
+    "kernel",
+    "driver"
+  ],
+  "author": "brianhernandez",
+  "license": "ISC"
 }
