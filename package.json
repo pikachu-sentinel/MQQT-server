@@ -1,12 +1,12 @@
 {
   "dependencies": {
+    "express": "^4.18.2",
     "mqtt": "^5.3.5"
   },
   "name": "mqqt-server",
   "version": "1.0.0",
   "description": "lightweight monitor real-time",
   "main": "index.js",
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
